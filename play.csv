@@ -1,0 +1,496 @@
+_id,age,draf,height,nation,number,player,position,pre_draf_team,team,weight,yos
+5bfa2d1cdc6f74efb340a08a,25,2013 Rnd 2 Pick 2,6-6,Spain,8,Alex Abrines,GF,FC Barcelona Lassa (Spain),Oklahoma City Thunder,190,2
+5bfa2d1cdc6f74efb340a08b,23,"2018 NBA Draft, Undrafted",6-2,United States,10,Jaylen Adams,PG,St. Bonaventure,Atlanta Hawks,190,0
+5bfa2d1cdc6f74efb340a08c,25,2013 Rnd 1 Pick 12,7-0,New Zealand,12,Steven Adams,C,Pittsburgh,Oklahoma City Thunder,265,5
+5bfa2d1cdc6f74efb340a08d,21,2017 Rnd 1 Pick 14,6-10,United States,13,Bam Adebayo,C,Kentucky,Miami Heat,255,1
+5bfa2d1cdc6f74efb340a08e,26,"2016 NBA Draft, Undrafted",6-5,United States,23,DeVaughn Akoon-Purcell,GF,Illinois State,Denver Nuggets,200,0
+5bfa2d1cdc6f74efb340a08f,33,2006 Rnd 1 Pick 2,6-11,United States,12,LaMarcus Aldridge,FC,Texas,San Antonio Spurs,260,12
+5bfa2d1cdc6f74efb340a090,21,"2018 NBA Draft, Undrafted",6-5,United States,20,Rawle Alkins,SG,Arizona,Chicago Bulls,225,0
+5bfa2d1cdc6f74efb340a091,23,2018 Rnd 1 Pick 21,6-5,United States,24,Grayson Allen,SG,Duke,Utah Jazz,198,0
+5bfa2d1cdc6f74efb340a092,20,2017 Rnd 1 Pick 22,6-11,United States,31,Jarrett Allen,C,Texas,Brooklyn Nets,237,1
+5bfa2d1cdc6f74efb340a093,28,2010 Rnd 1 Pick 8,6-9,United StatesNigeria,8,Al-Farouq Aminu,F,Wake Forest,Portland Trail Blazers,220,8
+5bfa2d1cdc6f74efb340a094,25,2015 Rnd 1 Pick 21,6-6,United States,1,Justin Anderson,F,Virginia,Atlanta Hawks,230,3
+5bfa2d1cdc6f74efb340a095,25,2014 Rnd 1 Pick 30,6-9,United States,1,Kyle Anderson,PF,UCLA,Memphis Grizzlies,230,4
+5bfa2d1cdc6f74efb340a096,30,2008 Rnd 1 Pick 21,6-10,United States,15,Ryan Anderson,PF,California,Phoenix Suns,240,10
+5bfa2d1cdc6f74efb340a097,20,2017 Rnd 2 Pick 17,6-10,United States,13,Ike Anigbogu,C,UCLA,Indiana Pacers,250,1
+5bfa2d1cdc6f74efb340a098,23,2013 Rnd 1 Pick 15,6-11,GreeceNigeria,34,Giannis Antetokounmpo,F,Filathlitikos Div II Greece (Greece),Milwaukee Bucks,242,5
+5bfa2d1cdc6f74efb340a099,22,2018 Rnd 2 Pick 30,6-10,GreeceUnited States,37,Kostas Antetokounmpo,PF,Dayton,Dallas Mavericks,197,0
+5bfa2d1cdc6f74efb340a09a,34,2003 Rnd 1 Pick 3,6-8,United States,7,Carmelo Anthony,F,Syracuse,Houston Rockets,240,15
+5bfa2d1cdc6f74efb340a09b,21,2017 Rnd 1 Pick 23,6-8,EnglandUnited States,3,Ogugua Anunoby,SF,Indiana,Toronto Raptors,232,1
+5bfa2d1cdc6f74efb340a09c,24,"2016 NBA Draft, Undrafted",6-3,United States,51,Ryan Arcidiacono,G,Villanova,Chicago Bulls,200,1
+5bfa2d1cdc6f74efb340a09d,33,2004 Rnd 2 Pick 14,6-8,United States,3,Trevor Ariza,SF,UCLA,Phoenix Suns,215,14
+5bfa2d1cdc6f74efb340a09e,31,2008 Rnd 1 Pick 9,6-0,United States,14,D.J. Augustin,G,Texas,Orlando Magic,183,10
+5bfa2d1cdc6f74efb340a09f,20,2018 Rnd 1 Pick 1,7-1,Bahamas,22,DeAndre Ayton,C,Arizona,Phoenix Suns,250,0
+5bfa2d1cdc6f74efb340a0a0,23,2017 Rnd 2 Pick 10,6-7,United States,7,Dwayne Bacon,SF,Florida State,Charlotte Hornets,221,1
+5bfa2d1cdc6f74efb340a0a1,19,2018 Rnd 1 Pick 2,6-11,United States,35,Marvin Bagley III,PF,Duke,Sacramento Kings,234,0
+5bfa2d1cdc6f74efb340a0a2,25,"2016 NBA Draft, Undrafted",6-4,United States,31,Ron Baker,G,Wichita State,New York Knicks,220,2
+5bfa2d1cdc6f74efb340a0a3,22,2016 Rnd 1 Pick 17,6-4,United States,2,Wade Baldwin IV,G,Vanderbilt,Portland Trail Blazers,220,2
+5bfa2d1cdc6f74efb340a0a4,21,2017 Rnd 1 Pick 2,6-6,United States,2,Lonzo Ball,PG,UCLA,Los Angeles Lakers,190,1
+5bfa2d1cdc6f74efb340a0a5,20,2018 Rnd 1 Pick 6,7-0,United States,5,Mohamed Bamba,C,Texas,Orlando Magic,225,0
+5bfa2d1cdc6f74efb340a0a6,34,"2006 NBA Draft, Undrafted",6-0,Puerto RicoUnited States,5,J.J. Barea,G,Northeastern,Dallas Mavericks,185,12
+5bfa2d1cdc6f74efb340a0a7,26,2012 Rnd 1 Pick 7,6-8,United States,40,Harrison Barnes,SF,North Carolina,Dallas Mavericks,225,6
+5bfa2d1cdc6f74efb340a0a8,27,2012 Rnd 2 Pick 10,6-6,United States,5,Will Barton,GF,Memphis,Denver Nuggets,190,6
+5bfa2d1cdc6f74efb340a0a9,22,2018 Rnd 2 Pick 18,6-9,United States,33,Keita Bates-Diop,SF,Ohio State,Minnesota Timberwolves,223,0
+5bfa2d1cdc6f74efb340a0aa,29,2008 Rnd 1 Pick 25,6-8,France,5,Nicolas Batum,F,Le Mans Sarthe Basket (France),Charlotte Hornets,200,10
+5bfa2d1cdc6f74efb340a0ab,30,2008 Rnd 1 Pick 11,6-3,United States,8,Jerryd Bayless,G,Arizona,Minnesota Timberwolves,210,10
+5bfa2d1cdc6f74efb340a0ac,31,"2009 NBA Draft, Undrafted",6-10,New ZealandAustralia,46,Aron Baynes,C,Washington State,Boston Celtics,260,6
+5bfa2d1cdc6f74efb340a0ad,29,"2012 NBA Draft, Undrafted",6-5,United States,24,Kent Bazemore,GF,Old Dominion,Atlanta Hawks,201,6
+5bfa2d1cdc6f74efb340a0ae,25,2012 Rnd 1 Pick 3,6-5,United States,3,Bradley Beal,SG,Florida,Washington Wizards,207,6
+5bfa2d1cdc6f74efb340a0af,21,2016 Rnd 1 Pick 19,6-5,United States,25,Malik Beasley,SG,Florida State,Denver Nuggets,195,2
+5bfa2d1cdc6f74efb340a0b0,29,2008 Rnd 1 Pick 2,6-9,United States,11,Michael Beasley,PF,Kansas State,Los Angeles Lakers,235,10
+5bfa2d1cdc6f74efb340a0b1,32,2007 Rnd 1 Pick 18,6-5,Italy,18,Marco Belinelli,G,Fortituto Kontatto Bologna (Italy),San Antonio Spurs,210,11
+5bfa2d1cdc6f74efb340a0b2,23,2017 Rnd 2 Pick 8,6-9,United States,2,Jordan Bell,PF,Oregon,Golden State Warriors,224,1
+5bfa2d1cdc6f74efb340a0b3,24,2016 Rnd 1 Pick 21,6-6,United States,95,DeAndre' Bembry,GF,Saint Joseph's,Atlanta Hawks,210,2
+5bfa2d1cdc6f74efb340a0b4,21,2016 Rnd 1 Pick 4,7-1,Bosnia and HerzegovinaCroatia,35,Dragan Bender,PF,Maccabi FOX Tel Aviv (Israel),Phoenix Suns,235,2
+5bfa2d1cdc6f74efb340a0b5,26,2011 Rnd 2 Pick 12,6-10,Latvia,42,Davis Bertans,SF,Union Olimpija (Slovenia),San Antonio Spurs,225,2
+5bfa2d1cdc6f74efb340a0b6,30,2009 Rnd 2 Pick 12,6-1,United States,21,Patrick Beverley,PG,Dnipro Dnipropetrovsk (Ukraine),Los Angeles Clippers,185,6
+5bfa2d1cdc6f74efb340a0b7,26,"2014 NBA Draft, Undrafted",6-9,Canada,24,Khem Birch,PF,UNLV,Orlando Magic,220,1
+5bfa2d1cdc6f74efb340a0b8,24,2017 Rnd 2 Pick 26,6-6,United States,26,Jabari Bird,SG,California,Boston Celtics,198,1
+5bfa2d1cdc6f74efb340a0b9,26,2011 Rnd 1 Pick 7,6-9,Democratic Republic of the Congo,8,Bismack Biyombo,PF,Montakit Fuenlabrada (Spain),Charlotte Hornets,255,7
+5bfa2d1cdc6f74efb340a0ba,30,2010 Rnd 2 Pick 5,6-10,Serbia,88,Nemanja Bjelica,PF,KK Crvena Zvezda (Serbia),Sacramento Kings,234,3
+5bfa2d1cdc6f74efb340a0bb,22,"2017 NBA Draft, Undrafted",6-4,United States,9,Antonio Blakeney,SG,LSU,Chicago Bulls,192,1
+5bfa2d1cdc6f74efb340a0bc,28,2010 Rnd 1 Pick 18,6-1,United States,6,Eric Bledsoe,PG,Kentucky,Milwaukee Bucks,205,8
+5bfa2d1cdc6f74efb340a0bd,24,"2018 NBA Draft, Undrafted",6-5,United States,5,Trevon Bluiett,SG,Xavier,New Orleans Pelicans,198,0
+5bfa2d1cdc6f74efb340a0be,26,2014 Rnd 1 Pick 27,6-6,Serbia,8,Bogdan Bogdanovic,SG,KK Partizan (Serbia),Sacramento Kings,205,1
+5bfa2d1cdc6f74efb340a0bf,29,2011 Rnd 2 Pick 1,6-8,Bosnia and HerzegovinaCroatia,44,Bojan Bogdanovic,F,KK Cibona (Croatia),Indiana Pacers,216,4
+5bfa2d1cdc6f74efb340a0c0,22,2017 Rnd 2 Pick 6,6-10,Australia,43,Jonah Bolden,SF,FMP Beograd (Serbia),Philadelphia Sixers,220,0
+5bfa2d1cdc6f74efb340a0c1,19,2018 Rnd 2 Pick 9,6-9,Germany,17,Isaac Bonga,SG,Fraport Skyliners (Germany),Los Angeles Lakers,203,0
+5bfa2d1cdc6f74efb340a0c2,22,2015 Rnd 1 Pick 13,6-6,United States,1,Devin Booker,SG,Kentucky,Phoenix Suns,206,3
+5bfa2d1cdc6f74efb340a0c3,25,"2017 NBA Draft, Undrafted",6-10,Saint LuciaCanada,25,Chris Boucher,PF,Oregon,Toronto Raptors,200,1
+5bfa2d1cdc6f74efb340a0c4,27,2010 Rnd 1 Pick 19,6-2,United States,22,Avery Bradley,PG,Texas,Los Angeles Clippers,180,8
+5bfa2d1cdc6f74efb340a0c5,20,2017 Rnd 1 Pick 28,6-11,United States,13,Tony Bradley,C,North Carolina,Utah Jazz,248,1
+5bfa2d1cdc6f74efb340a0c6,22,2018 Rnd 1 Pick 10,6-7,United States,25,Mikal Bridges,SG,Villanova,Phoenix Suns,210,0
+5bfa2d1cdc6f74efb340a0c7,20,2018 Rnd 1 Pick 12,6-7,United States,0,Miles Bridges,SF,Michigan State,Charlotte Hornets,225,0
+5bfa2d1cdc6f74efb340a0c8,22,"2017 NBA Draft, Undrafted",6-3,United States,13,Isaiah Briscoe,PG,Kentucky,Orlando Magic,210,0
+5bfa2d1cdc6f74efb340a0c9,28,"2013 NBA Draft, Undrafted",6-7,Australia,45,Ryan Broekhoff,SF,Valparaiso,Dallas Mavericks,215,0
+5bfa2d1cdc6f74efb340a0ca,25,2016 Rnd 2 Pick 6,6-5,United States,13,Malcolm Brogdon,SG,Virginia,Milwaukee Bucks,224,2
+5bfa2d1cdc6f74efb340a0cb,22,2017 Rnd 2 Pick 15,6-6,Canada,24,Dillon Brooks,F,Oregon,Memphis Grizzlies,220,1
+5bfa2d1cdc6f74efb340a0cc,29,2011 Rnd 1 Pick 25,6-5,United States,8,MarShon Brooks,GF,Providence,Memphis Grizzlies,200,4
+5bfa2d1cdc6f74efb340a0cd,22,2016 Rnd 1 Pick 3,6-7,United States,7,Jaylen Brown,SF,California,Boston Celtics,220,2
+5bfa2d1cdc6f74efb340a0ce,22,2018 Rnd 2 Pick 12,6-5,United States,6,"Bruce Brown, Jr.",SG,Miami (FL),Detroit Pistons,202,0
+5bfa2d1cdc6f74efb340a0cf,19,2018 Rnd 1 Pick 15,6-7,United States,6,"Troy Brown, Jr.",SF,Oregon,Washington Wizards,215,0
+5bfa2d1cdc6f74efb340a0d0,28,2013 Rnd 2 Pick 22,6-5,United States,4,Lorenzo Brown,SG,NC State,Toronto Raptors,189,4
+5bfa2d1cdc6f74efb340a0d1,23,2017 Rnd 2 Pick 16,6-6,United States,23,Sterling Brown,G,Southern Methodist,Milwaukee Bucks,228,1
+5bfa2d1cdc6f74efb340a0d2,22,2018 Rnd 2 Pick 3,6-3,United States,13,Jalen Brunson,PG,Villanova,Dallas Mavericks,190,0
+5bfa2d1cdc6f74efb340a0d3,21,2017 Rnd 2 Pick 12,6-11,United States,13,Thomas Bryant,C,Indiana,Washington Wizards,248,1
+5bfa2d1cdc6f74efb340a0d4,27,2013 Rnd 1 Pick 25,6-7,United States,25,Reggie Bullock,SG,North Carolina,Detroit Pistons,205,5
+5bfa2d1cdc6f74efb340a0d5,26,2013 Rnd 1 Pick 9,6-1,United States,23,Trey Burke,G,Michigan,New York Knicks,191,5
+5bfa2d1cdc6f74efb340a0d6,27,2011 Rnd 1 Pick 12,6-6,United States,10,Alec Burks,SG,Colorado,Utah Jazz,214,7
+5bfa2d1cdc6f74efb340a0d7,25,"2017 NBA Draft, Undrafted",6-5,United States,30,Deonte Burton,F,Iowa State,Oklahoma City Thunder,245,0
+5bfa2d1cdc6f74efb340a0d8,29,2011 Rnd 1 Pick 30,6-8,United States,23,Jimmy Butler,GF,Marquette,Philadelphia Sixers,236,7
+5bfa2d1cdc6f74efb340a0d9,37,"2003 NBA Draft, Undrafted",6-3,Spain,81,Jose Calderon,G,Laboral Kutxa Baskonia (Spain),Detroit Pistons,200,13
+5bfa2d1cdc6f74efb340a0da,25,2013 Rnd 1 Pick 8,6-5,United States,1,Kentavious Caldwell-Pope,SG,Georgia,Los Angeles Lakers,205,5
+5bfa2d1cdc6f74efb340a0db,27,2013 Rnd 2 Pick 4,6-0,United States,0,Isaiah Canaan,G,Murray State,Phoenix Suns,200,5
+5bfa2d1cdc6f74efb340a0dc,24,2014 Rnd 1 Pick 25,6-10,Switzerland,15,Clint Capela,PF,Chalon-Sur-Saone (France),Houston Rockets,240,4
+5bfa2d1cdc6f74efb340a0dd,32,2009 Rnd 1 Pick 27,6-8,United States,9,DeMarre Carroll,F,Missouri,Brooklyn Nets,215,9
+5bfa2d1cdc6f74efb340a0de,23,2018 Rnd 2 Pick 2,6-2,United States,3,Jevon Carter,PG,West Virginia,Memphis Grizzlies,196,0
+5bfa2d1cdc6f74efb340a0df,19,2018 Rnd 1 Pick 7,6-10,United States,34,"Wendell Carter, Jr.",PF,Duke,Chicago Bulls,255,0
+5bfa2d1cdc6f74efb340a0e0,41,1998 Rnd 1 Pick 5,6-6,United States,15,Vince Carter,SF,North Carolina,Atlanta Hawks,220,20
+5bfa2d1cdc6f74efb340a0e1,27,2013 Rnd 1 Pick 11,6-6,United States,1,Michael Carter-Williams,PG,Syracuse,Houston Rockets,190,5
+5bfa2d1cdc6f74efb340a0e2,24,"2016 NBA Draft, Undrafted",6-5,United States,4,Alex Caruso,G,Texas A&M,Los Angeles Lakers,186,1
+5bfa2d1cdc6f74efb340a0e3,30,2009 Rnd 1 Pick 23,6-9,Israel,18,Omri Casspi,F,Maccabi FOX Tel Aviv (Israel),Memphis Grizzlies,225,9
+5bfa2d1cdc6f74efb340a0e4,25,2015 Rnd 1 Pick 6,7-0,United States,00,Willie Cauley-Stein,C,Kentucky,Sacramento Kings,240,3
+5bfa2d1cdc6f74efb340a0e5,22,"2017 NBA Draft, Undrafted",6-4,United States,23,Troy Caupain,G,Cincinnati,Orlando Magic,210,0
+5bfa2d1cdc6f74efb340a0e6,24,"2017 NBA Draft, Undrafted",6-9,United States,34,Tyler Cavanaugh,F,George Washington,Utah Jazz,238,1
+5bfa2d1cdc6f74efb340a0e7,36,2001 Rnd 1 Pick 2,7-1,United States,5,Tyson Chandler,C,Dominguez High School (California),Los Angeles Lakers,240,17
+5bfa2d1cdc6f74efb340a0e8,31,2007 Rnd 1 Pick 23,6-9,United States,22,Wilson Chandler,SF,DePaul,Philadelphia Sixers,225,11
+5bfa2d1cdc6f74efb340a0e9,23,"2018 NBA Draft, Undrafted",6-3,United States,31,Joe Chealey,PG,Charleston,Charlotte Hornets,190,0
+5bfa2d1cdc6f74efb340a0ea,21,2016 Rnd 1 Pick 8,6-10,United States,0,Marquese Chriss,PF,Washington,Houston Rockets,230,2
+5bfa2d1cdc6f74efb340a0eb,24,"2018 NBA Draft, Undrafted",6-8,United States,6,Gary Clark,SF,Cincinnati,Houston Rockets,225,0
+5bfa2d1cdc6f74efb340a0ec,27,"2013 NBA Draft, Undrafted",6-3,United States,2,Ian Clark,G,Belmont,New Orleans Pelicans,175,5
+5bfa2d1cdc6f74efb340a0ed,26,2014 Rnd 2 Pick 16,6-5,United States,8,Jordan Clarkson,G,Missouri,Cleveland Cavaliers,194,4
+5bfa2d1cdc6f74efb340a0ee,21,2017 Rnd 1 Pick 19,6-10,United States,20,John Collins,PF,Wake Forest,Atlanta Hawks,235,1
+5bfa2d1cdc6f74efb340a0ef,21,2017 Rnd 1 Pick 10,7-0,United States,33,Zach Collins,C,Gonzaga,Portland Trail Blazers,235,1
+5bfa2d1cdc6f74efb340a0f0,31,2009 Rnd 1 Pick 21,6-0,United States,2,Darren Collison,PG,UCLA,Indiana Pacers,175,9
+5bfa2d1cdc6f74efb340a0f1,31,2007 Rnd 1 Pick 4,6-1,United States,11,Mike Conley,PG,Ohio State,Memphis Grizzlies,175,11
+5bfa2d1cdc6f74efb340a0f2,25,2015 Rnd 2 Pick 11,6-4,United States,24,Pat Connaughton,SF,Notre Dame,Milwaukee Bucks,209,3
+5bfa2d1cdc6f74efb340a0f3,25,"2015 NBA Draft, Undrafted",6-2,United States,4,Quinn Cook,PG,Duke,Golden State Warriors,179,2
+5bfa2d1cdc6f74efb340a0f4,28,2010 Rnd 1 Pick 5,6-11,United States,0,DeMarcus Cousins,C,Kentucky,Golden State Warriors,270,8
+5bfa2d1cdc6f74efb340a0f5,27,"2013 NBA Draft, Undrafted",6-9,United States,6,Robert Covington,F,Tennessee State,Minnesota Timberwolves,225,5
+5bfa2d1cdc6f74efb340a0f6,26,2013 Rnd 2 Pick 1,6-6,United States,33,Allen Crabbe,SG,California,Brooklyn Nets,212,5
+5bfa2d1cdc6f74efb340a0f7,27,"2014 NBA Draft, Undrafted",6-6,United States,3,Torrey Craig,GF,USC Upstate,Denver Nuggets,215,1
+5bfa2d1cdc6f74efb340a0f8,38,2000 Rnd 1 Pick 8,6-5,United States,11,Jamal Crawford,SG,Michigan,Phoenix Suns,195,18
+5bfa2d1cdc6f74efb340a0f9,28,2012 Rnd 2 Pick 4,6-6,United States,99,Jae Crowder,SF,Marquette,Utah Jazz,235,6
+5bfa2d1cdc6f74efb340a0fa,31,2009 Rnd 2 Pick 3,6-8,United States,33,Dante Cunningham,F,Villanova,San Antonio Spurs,230,9
+5bfa2d1cdc6f74efb340a0fb,28,"2013 NBA Draft, Undrafted",6-2,United States,31,Seth Curry,G,Duke,Portland Trail Blazers,185,5
+5bfa2d1cdc6f74efb340a0fc,30,2009 Rnd 1 Pick 7,6-3,United States,30,Stephen Curry,G,Davidson,Golden State Warriors,190,9
+5bfa2d1cdc6f74efb340a0fd,27,"2013 NBA Draft, Undrafted",6-4,United States,30,Troy Daniels,G,VCU,Phoenix Suns,205,5
+5bfa2d1cdc6f74efb340a0fe,25,2012 Rnd 1 Pick 1,6-10,United States,23,Anthony Davis,PF,Kentucky,New Orleans Pelicans,253,6
+5bfa2d1cdc6f74efb340a0ff,29,2010 Rnd 1 Pick 13,6-10,United States,17,Ed Davis,PF,North Carolina,Brooklyn Nets,225,8
+5bfa2d1cdc6f74efb340a100,22,"2018 NBA Draft, Undrafted",6-10,United StatesPuerto Rico,34,Tyler Davis,C,Texas A&M,Oklahoma City Thunder,266,0
+5bfa2d1cdc6f74efb340a101,29,2009 Rnd 1 Pick 9,6-7,United States,10,DeMar DeRozan,GF,USC,San Antonio Spurs,220,9
+5bfa2d1cdc6f74efb340a102,29,"2013 NBA Draft, Undrafted",7-0,United States,14,Dewayne Dedmon,PF,USC,Atlanta Hawks,245,5
+5bfa2d1cdc6f74efb340a103,24,2015 Rnd 1 Pick 18,6-9,United States,15,Sam Dekker,SF,Wisconsin,Cleveland Cavaliers,230,3
+5bfa2d1cdc6f74efb340a104,24,"2018 NBA Draft, Undrafted",6-10,Dominican Republic,31,Angel Delgado,C,Seton Hall,Los Angeles Clippers,230,0
+5bfa2d1cdc6f74efb340a105,28,"2013 NBA Draft, Undrafted",6-4,Australia,8,Matt Dellavedova,G,Saint Mary's,Milwaukee Bucks,200,5
+5bfa2d1cdc6f74efb340a106,33,2004 Rnd 1 Pick 7,6-9,EnglandSouth Sudan,9,Luol Deng,GF,Duke,Minnesota Timberwolves,220,14
+5bfa2d1cdc6f74efb340a107,22,"2018 NBA Draft, Undrafted",6-7,United States,32,Marcus Derrickson,PF,Georgetown,Golden State Warriors,249,0
+5bfa2d1cdc6f74efb340a108,21,2018 Rnd 1 Pick 17,6-4,United States,9,Donte DiVincenzo,SG,Villanova,Milwaukee Bucks,203,0
+5bfa2d1cdc6f74efb340a109,22,2016 Rnd 2 Pick 3,6-9,Mali,13,Cheick Diallo,PF,Kansas,New Orleans Pelicans,220,2
+5bfa2d1cdc6f74efb340a10a,20,2018 Rnd 2 Pick 15,6-5,United StatesGuinea,6,Hamidou Diallo,SG,Kentucky,Oklahoma City Thunder,198,0
+5bfa2d1cdc6f74efb340a10b,28,2013 Rnd 1 Pick 21,6-11,Senegal,5,Gorgui Dieng,FC,Louisville,Minnesota Timberwolves,240,5
+5bfa2d1cdc6f74efb340a10c,25,2014 Rnd 2 Pick 8,6-6,United States,8,Spencer Dinwiddie,PG,Colorado,Brooklyn Nets,210,4
+5bfa2d1cdc6f74efb340a10d,19,2018 Rnd 1 Pick 3,6-7,Slovenia,77,Luka Doncic,SF,Real Madrid (Spain),Dallas Mavericks,218,0
+5bfa2d1cdc6f74efb340a10e,22,2017 Rnd 2 Pick 11,6-5,United StatesGreece,2,Tyler Dorsey,SG,Oregon,Atlanta Hawks,183,1
+5bfa2d1cdc6f74efb340a10f,24,2017 Rnd 2 Pick 14,6-6,United States,21,Damyean Dotson,SG,Houston,New York Knicks,205,1
+5bfa2d1cdc6f74efb340a110,22,"2017 NBA Draft, Undrafted",6-6,United States,50,P.J. Dozier,PG,South Carolina,Boston Celtics,205,1
+5bfa2d1cdc6f74efb340a111,32,2008 Rnd 2 Pick 15,6-3,Slovenia,7,Goran Dragic,G,Union Olimpija (Slovenia),Miami Heat,190,10
+5bfa2d1cdc6f74efb340a112,25,2012 Rnd 1 Pick 9,6-11,United States,0,Andre Drummond,C,Connecticut,Detroit Pistons,279,6
+5bfa2d1cdc6f74efb340a113,33,2007 Rnd 1 Pick 22,6-7,United States,6,Jared Dudley,PF,Boston College,Brooklyn Nets,237,11
+5bfa2d1cdc6f74efb340a114,24,2016 Rnd 1 Pick 5,6-4,United States,32,Kris Dunn,SG,Providence,Chicago Bulls,205,2
+5bfa2d1cdc6f74efb340a115,30,2007 Rnd 1 Pick 2,6-9,United States,35,Kevin Durant,SF,Texas,Golden State Warriors,240,11
+5bfa2d1cdc6f74efb340a116,20,"2018 NBA Draft, Undrafted",6-2,United States,0,Trevon Duval,PG,Duke,Milwaukee Bucks,189,0
+5bfa2d1cdc6f74efb340a117,22,2018 Rnd 2 Pick 22,6-8,United States,12,Vince Edwards,SF,Purdue,Houston Rockets,225,0
+5bfa2d1cdc6f74efb340a118,21,2016 Rnd 1 Pick 18,6-11,United States,8,Henry Ellenson,PF,Marquette,Detroit Pistons,245,2
+5bfa2d1cdc6f74efb340a119,31,2009 Rnd 1 Pick 28,6-5,United States,2,Wayne Ellington,SG,North Carolina,Miami Heat,200,9
+5bfa2d1cdc6f74efb340a11a,24,2014 Rnd 1 Pick 3,7-0,Cameroon,21,Joel Embiid,C,Kansas,Philadelphia Sixers,260,4
+5bfa2d1cdc6f74efb340a11b,28,2013 Rnd 2 Pick 20,6-7,United States,7,James Ennis,GF,Long Beach State,Houston Rockets,210,4
+5bfa2d1cdc6f74efb340a11c,23,"2018 NBA Draft, Undrafted",6-10,United States,14,Drew Eubanks,C,Oregon State,San Antonio Spurs,245,0
+5bfa2d1cdc6f74efb340a11d,21,2018 Rnd 1 Pick 28,6-6,United States,10,Jacob Evans,SG,Cincinnati,Golden State Warriors,210,0
+5bfa2d1cdc6f74efb340a11e,22,"2018 NBA Draft, Undrafted",6-3,United States,12,Keenan Evans,SG,Texas Tech,Detroit Pistons,190,0
+5bfa2d1cdc6f74efb340a11f,29,2009 Rnd 1 Pick 4,6-6,United States,12,Tyreke Evans,G,Memphis,Indiana Pacers,220,9
+5bfa2d1cdc6f74efb340a120,23,2014 Rnd 1 Pick 5,6-6,Australia,11,Dante Exum,PG,Australian Institute of Sport (Australian Capital Territory),Utah Jazz,190,4
+5bfa2d1cdc6f74efb340a121,29,2011 Rnd 1 Pick 22,6-8,United States,35,Kenneth Faried,F,Morehead State,Brooklyn Nets,220,7
+5bfa2d1cdc6f74efb340a122,27,2010 Rnd 1 Pick 3,6-10,United States,15,Derrick Favors,FC,Georgia Tech,Utah Jazz,265,8
+5bfa2d1cdc6f74efb340a123,26,"2014 NBA Draft, Undrafted",6-10,Brazil,6,Cristiano Felicio,C,Minas (Brazil),Chicago Bulls,265,3
+5bfa2d1cdc6f74efb340a124,34,2005 Rnd 1 Pick 5,6-1,United States,2,Raymond Felton,PG,North Carolina,Oklahoma City Thunder,205,13
+5bfa2d1cdc6f74efb340a125,20,2017 Rnd 1 Pick 21,6-7,United States,23,Terrance Ferguson,SG,Adelaide (Australia),Oklahoma City Thunder,190,1
+5bfa2d1cdc6f74efb340a126,25,"2016 NBA Draft, Undrafted",6-0,United States,3,Yogi Ferrell,G,Indiana,Sacramento Kings,180,2
+5bfa2d1cdc6f74efb340a127,25,"2016 NBA Draft, Undrafted",6-8,United States,10,Dorian Finney-Smith,SF,Florida,Dallas Mavericks,220,2
+5bfa2d1cdc6f74efb340a128,25,"2016 NBA Draft, Undrafted",6-3,United States,11,Bryn Forbes,G,Michigan State,San Antonio Spurs,190,2
+5bfa2d1cdc6f74efb340a129,26,2012 Rnd 1 Pick 20,6-7,France,10,Evan Fournier,SG,Poitiers Basket 86 (France),Orlando Magic,205,6
+5bfa2d1cdc6f74efb340a12a,20,2017 Rnd 1 Pick 5,6-3,United States,5,De'Aaron Fox,PG,Kentucky,Sacramento Kings,175,1
+5bfa2d1cdc6f74efb340a12b,22,2018 Rnd 2 Pick 5,6-6,United States,35,"Melvin Frazier, Jr.",SF,Tulane,Orlando Magic,200,0
+5bfa2d1cdc6f74efb340a12c,28,"2014 NBA Draft, Undrafted",6-0,United States,10,Tim Frazier,G,Penn State,New Orleans Pelicans,172,4
+5bfa2d1cdc6f74efb340a12d,35,2005 Rnd 1 Pick 8,7-0,United States,9,Channing Frye,FC,Arizona,Cleveland Cavaliers,255,13
+5bfa2d1cdc6f74efb340a12e,20,2017 Rnd 1 Pick 1,6-4,United States,20,Markelle Fultz,PG,Washington,Philadelphia Sixers,200,1
+5bfa2d1cdc6f74efb340a12f,23,"2018 NBA Draft, Undrafted",6-9,United StatesSouth Sudan,32,Wenyen Gabriel,PF,Kentucky,Sacramento Kings,205,0
+5bfa2d1cdc6f74efb340a130,30,2008 Rnd 1 Pick 6,6-10,Italy,8,Danilo Gallinari,SF,EA7 Emporio Armani Milano (Italy),Los Angeles Clippers,225,10
+5bfa2d1cdc6f74efb340a131,26,"2014 NBA Draft, Undrafted",6-2,United States,9,Langston Galloway,G,Saint Joseph's,Detroit Pistons,200,4
+5bfa2d1cdc6f74efb340a132,33,2007 Rnd 2 Pick 18,7-1,Spain,33,Marc Gasol,C,Sant Josep Girona (Spain),Memphis Grizzlies,255,10
+5bfa2d1cdc6f74efb340a133,38,2001 Rnd 1 Pick 3,7-0,Spain,16,Pau Gasol,FC,FC Barcelona Lassa (Spain),San Antonio Spurs,250,17
+5bfa2d1cdc6f74efb340a134,32,2006 Rnd 1 Pick 8,6-8,United States,22,Rudy Gay,SF,Connecticut,San Antonio Spurs,230,12
+5bfa2d1cdc6f74efb340a135,28,2010 Rnd 1 Pick 10,6-9,United States,13,Paul George,GF,Fresno State,Oklahoma City Thunder,220,8
+5bfa2d1cdc6f74efb340a136,33,2009 Rnd 1 Pick 26,6-9,United States,67,Taj Gibson,F,USC,Minnesota Timberwolves,236,9
+5bfa2d1cdc6f74efb340a137,20,2017 Rnd 1 Pick 20,6-10,United States,20,Harry Giles,PF,Duke,Sacramento Kings,240,1
+5bfa2d1cdc6f74efb340a138,20,2018 Rnd 1 Pick 11,6-6,Canada,2,Shai Gilgeous-Alexander,PG,Kentucky,Los Angeles Clippers,181,0
+5bfa2d1cdc6f74efb340a139,26,2013 Rnd 1 Pick 27,7-1,France,27,Rudy Gobert,C,Cholet Basket (France),Utah Jazz,245,5
+5bfa2d1cdc6f74efb340a13a,23,2014 Rnd 1 Pick 4,6-9,United States,00,Aaron Gordon,F,Arizona,Orlando Magic,220,4
+5bfa2d1cdc6f74efb340a13b,29,2008 Rnd 1 Pick 7,6-4,United States,10,Eric Gordon,G,Indiana,Houston Rockets,215,10
+5bfa2d1cdc6f74efb340a13c,34,2005 Rnd 2 Pick 27,6-11,Poland,13,Marcin Gortat,FC,Koln 99ers (Germany),Los Angeles Clippers,240,11
+5bfa2d1cdc6f74efb340a13d,23,2018 Rnd 2 Pick 4,6-2,United States,4,Devonte' Graham,PG,Kansas,Charlotte Hornets,185,0
+5bfa2d1cdc6f74efb340a13e,25,"2015 NBA Draft, Undrafted",6-5,United States,21,Treveon Graham,GF,VCU,Brooklyn Nets,225,2
+5bfa2d1cdc6f74efb340a13f,24,2014 Rnd 2 Pick 9,6-9,United States,9,Jerami Grant,F,Syracuse,Oklahoma City Thunder,220,4
+5bfa2d1cdc6f74efb340a140,26,2015 Rnd 1 Pick 19,6-4,United States,22,Jerian Grant,SG,Notre Dame,Orlando Magic,198,3
+5bfa2d1cdc6f74efb340a141,31,2009 Rnd 2 Pick 16,6-6,United States,14,Danny Green,SF,North Carolina,Toronto Raptors,215,9
+5bfa2d1cdc6f74efb340a142,28,2012 Rnd 2 Pick 5,6-7,United States,23,Draymond Green,F,Michigan State,Golden State Warriors,230,6
+5bfa2d1cdc6f74efb340a143,32,2005 Rnd 1 Pick 18,6-7,United States,14,Gerald Green,GF,Gulf Shores Academy (Texas),Houston Rockets,205,11
+5bfa2d1cdc6f74efb340a144,28,"2012 NBA Draft, Undrafted",6-9,United States,0,JaMychal Green,PF,Alabama,Memphis Grizzlies,227,4
+5bfa2d1cdc6f74efb340a145,32,2007 Rnd 1 Pick 5,6-9,United States,32,Jeff Green,F,Georgetown,Washington Wizards,235,10
+5bfa2d1cdc6f74efb340a146,29,2009 Rnd 1 Pick 1,6-10,United States,23,Blake Griffin,PF,Oklahoma,Detroit Pistons,250,9
+5bfa2d1cdc6f74efb340a147,23,2016 Rnd 2 Pick 26,6-7,United States,5,Daniel Hamilton,SG,Connecticut,Atlanta Hawks,195,1
+5bfa2d1cdc6f74efb340a148,26,2013 Rnd 1 Pick 24,6-6,United States,3,Tim Hardaway Jr.,SG,Michigan,New York Knicks,205,5
+5bfa2d1cdc6f74efb340a149,29,2009 Rnd 1 Pick 3,6-5,United States,13,James Harden,SG,Arizona State,Houston Rockets,220,9
+5bfa2d1cdc6f74efb340a14a,25,2012 Rnd 1 Pick 15,6-9,United StatesPuerto Rico,4,Maurice Harkless,F,St. John's,Portland Trail Blazers,220,6
+5bfa2d1cdc6f74efb340a14b,24,2015 Rnd 2 Pick 2,6-8,United States,5,Montrezl Harrell,F,Louisville,Los Angeles Clippers,240,3
+5bfa2d1cdc6f74efb340a14c,35,2004 Rnd 1 Pick 5,6-3,United States,34,Devin Harris,G,Wisconsin,Dallas Mavericks,185,14
+5bfa2d1cdc6f74efb340a14d,24,2014 Rnd 1 Pick 19,6-4,United States,14,Gary Harris,SG,Michigan State,Denver Nuggets,210,4
+5bfa2d1cdc6f74efb340a14e,27,2014 Rnd 2 Pick 3,6-6,United States,12,Joe Harris,SG,Virginia,Brooklyn Nets,218,4
+5bfa2d1cdc6f74efb340a14f,26,2011 Rnd 1 Pick 19,6-9,United States,34,Tobias Harris,F,Tennessee,Los Angeles Clippers,235,7
+5bfa2d1cdc6f74efb340a150,24,2015 Rnd 2 Pick 14,6-6,United States,55,Andrew Harrison,G,Kentucky,Cleveland Cavaliers,213,2
+5bfa2d1cdc6f74efb340a151,25,"2016 NBA Draft, Undrafted",6-4,United States,11,Shaquille Harrison,G,Tulsa,Chicago Bulls,190,1
+5bfa2d1cdc6f74efb340a152,23,2017 Rnd 1 Pick 30,6-5,United States,5,Josh Hart,SG,Villanova,Los Angeles Lakers,215,1
+5bfa2d1cdc6f74efb340a153,20,2017 Rnd 2 Pick 13,7-0,United StatesGermany,55,Isaiah Hartenstein,PF,Zalgiris (Lithuania),Houston Rockets,249,0
+5bfa2d1cdc6f74efb340a154,38,"2002 NBA Draft, Undrafted",6-8,United States,40,Udonis Haslem,FC,Florida,Miami Heat,235,15
+5bfa2d1cdc6f74efb340a155,28,2010 Rnd 1 Pick 9,6-8,United States,20,Gordon Hayward,GF,Butler,Boston Celtics,225,8
+5bfa2d1cdc6f74efb340a156,27,2012 Rnd 1 Pick 14,6-11,United States,31,John Henson,PF,North Carolina,Milwaukee Bucks,219,6
+5bfa2d1cdc6f74efb340a157,23,2016 Rnd 1 Pick 15,6-9,Spain,41,Juancho Hernangomez,F,Movistar Estudiantes (Spain),Denver Nuggets,230,2
+5bfa2d1cdc6f74efb340a158,24,2015 Rnd 2 Pick 5,6-11,Spain,41,Willy Hernangomez,C,Cajasol Seville Junior Team (Spain),Charlotte Hornets,240,2
+5bfa2d1cdc6f74efb340a159,23,2015 Rnd 1 Pick 5,6-8,Croatia,8,Mario Hezonja,SG,FC Barcelona II (Spain),New York Knicks,218,3
+5bfa2d1cdc6f74efb340a15a,24,"2017 NBA Draft, Undrafted",6-9,United States,4,Isaiah Hicks,PF,North Carolina,New York Knicks,240,1
+5bfa2d1cdc6f74efb340a15b,24,2016 Rnd 1 Pick 6,6-4,Bahamas,24,Buddy Hield,G,Oklahoma,Sacramento Kings,214,2
+5bfa2d1cdc6f74efb340a15c,32,2008 Rnd 1 Pick 26,6-3,United States,3,George Hill,G,IUPUI,Cleveland Cavaliers,188,10
+5bfa2d1cdc6f74efb340a15d,27,2013 Rnd 1 Pick 23,6-7,United States,44,Solomon Hill,SF,Arizona,New Orleans Pelicans,225,5
+5bfa2d1cdc6f74efb340a15e,22,2018 Rnd 1 Pick 23,6-1,United States,3,Aaron Holiday,PG,UCLA,Indiana Pacers,185,0
+5bfa2d1cdc6f74efb340a15f,28,2009 Rnd 1 Pick 17,6-4,United States,11,Jrue Holiday,G,UCLA,New Orleans Pelicans,205,9
+5bfa2d1cdc6f74efb340a160,29,"2011 NBA Draft, Undrafted",6-6,United States,7,Justin Holiday,SF,Washington,Chicago Bulls,181,5
+5bfa2d1cdc6f74efb340a161,23,2015 Rnd 1 Pick 23,6-7,United States,24,Rondae Hollis-Jefferson,SF,Arizona,Brooklyn Nets,217,3
+5bfa2d1cdc6f74efb340a162,25,2015 Rnd 2 Pick 7,6-10,United States,21,Richaun Holmes,F,Bowling Green,Phoenix Suns,235,3
+5bfa2d1cdc6f74efb340a163,26,2014 Rnd 1 Pick 23,6-8,United States,1,Rodney Hood,F,Duke,Cleveland Cavaliers,206,4
+5bfa2d1cdc6f74efb340a164,32,2007 Rnd 1 Pick 3,6-10,Dominican RepublicUnited States,42,Al Horford,FC,Florida,Boston Celtics,245,11
+5bfa2d1cdc6f74efb340a165,32,2004 Rnd 1 Pick 1,6-11,United States,21,Dwight Howard,C,Southwest Atlanta Christian Academy (Georgia),Washington Wizards,265,14
+5bfa2d1cdc6f74efb340a166,20,2018 Rnd 1 Pick 19,6-7,United States,1,Kevin Huerter,SF,Maryland,Atlanta Hawks,190,0
+5bfa2d1cdc6f74efb340a167,22,2018 Rnd 1 Pick 22,6-7,United States,15,Chandler Hutchison,SG,Boise State,Chicago Bulls,197,0
+5bfa2d1cdc6f74efb340a168,29,2008 Rnd 1 Pick 24,6-10,Republic of the CongoSpain,9,Serge Ibaka,C,CB L'Hospitalet (Spain),Toronto Raptors,235,9
+5bfa2d1cdc6f74efb340a169,34,2004 Rnd 1 Pick 9,6-6,United States,9,Andre Iguodala,SF,Arizona,Golden State Warriors,215,14
+5bfa2d1cdc6f74efb340a16a,31,2005 Rnd 2 Pick 6,6-10,Turkey,77,Ersan Ilyasova,F,Alpella B.K. (Turkey),Milwaukee Bucks,235,11
+5bfa2d1cdc6f74efb340a16b,31,"2009 NBA Draft, Undrafted",6-8,Australia,2,Joe Ingles,F,Melbourne South (Australia),Utah Jazz,226,4
+5bfa2d1cdc6f74efb340a16c,21,2016 Rnd 1 Pick 2,6-9,United States,14,Brandon Ingram,SF,Duke,Los Angeles Lakers,190,2
+5bfa2d1cdc6f74efb340a16d,26,2011 Rnd 1 Pick 1,6-3,United StatesAustralia,11,Kyrie Irving,G,Duke,Boston Celtics,193,7
+5bfa2d1cdc6f74efb340a16e,21,2017 Rnd 1 Pick 6,6-10,United States,1,Jonathan Isaac,SF,Florida State,Orlando Magic,210,1
+5bfa2d1cdc6f74efb340a16f,23,2017 Rnd 2 Pick 3,6-7,United States,25,Wesley Iwundu,F,Kansas State,Orlando Magic,195,1
+5bfa2d1cdc6f74efb340a170,24,2016 Rnd 2 Pick 15,6-1,United States,11,Demetrius Jackson,G,Notre Dame,Philadelphia Sixers,200,2
+5bfa2d1cdc6f74efb340a171,20,2017 Rnd 2 Pick 1,6-3,United States,15,Frank Jackson,SG,Duke,New Orleans Pelicans,205,1
+5bfa2d1cdc6f74efb340a172,21,2017 Rnd 1 Pick 4,6-8,United States,20,Josh Jackson,SF,Kansas,Phoenix Suns,200,1
+5bfa2d1cdc6f74efb340a173,19,2018 Rnd 1 Pick 4,6-11,United States,13,"Jaren Jackson, Jr.",PF,Michigan State,Memphis Grizzlies,242,0
+5bfa2d1cdc6f74efb340a174,23,2017 Rnd 1 Pick 15,6-8,United States,25,Justin Jackson,F,North Carolina,Sacramento Kings,210,1
+5bfa2d1cdc6f74efb340a175,28,2011 Rnd 1 Pick 24,6-3,ItalyUnited States,1,Reggie Jackson,G,Boston College,Detroit Pistons,208,7
+5bfa2d1cdc6f74efb340a176,33,2003 Rnd 1 Pick 1,6-8,United States,23,LeBron James,F,St. Vincent St. Mary High School (Ohio),Los Angeles Lakers,250,15
+5bfa2d1cdc6f74efb340a177,25,"2017 NBA Draft, Undrafted",6-9,United States,11,Amile Jefferson,PF,Duke,Orlando Magic,224,1
+5bfa2d1cdc6f74efb340a178,31,2009 Rnd 2 Pick 9,6-10,Sweden,21,Jonas Jerebko,F,Pallacanestro Biella (Italy),Golden State Warriors,231,9
+5bfa2d1cdc6f74efb340a179,22,2018 Rnd 2 Pick 20,6-9,United States,24,Alize Johnson,SF,Missouri State,Indiana Pacers,212,0
+5bfa2d1cdc6f74efb340a17a,31,2005 Rnd 2 Pick 26,6-9,United States,5,Amir Johnson,PF,Westchester High School (California),Philadelphia Sixers,240,13
+5bfa2d1cdc6f74efb340a17b,31,2009 Rnd 1 Pick 16,6-9,United States,16,James Johnson,F,Wake Forest,Miami Heat,240,9
+5bfa2d1cdc6f74efb340a17c,22,2015 Rnd 1 Pick 8,6-7,United States,7,Stanley Johnson,G,Arizona,Detroit Pistons,245,3
+5bfa2d1cdc6f74efb340a17d,26,"2014 NBA Draft, Undrafted",6-4,United States,8,Tyler Johnson,G,Fresno State,Miami Heat,190,4
+5bfa2d1cdc6f74efb340a17e,31,2010 Rnd 1 Pick 4,6-7,United States,33,Wesley Johnson,GF,Syracuse,New Orleans Pelicans,215,8
+5bfa2d1cdc6f74efb340a17f,23,2014 Rnd 2 Pick 11,7-0,Serbia,15,Nikola Jokic,C,KK Mega Bemax (Serbia),Denver Nuggets,250,3
+5bfa2d1cdc6f74efb340a180,23,2016 Rnd 1 Pick 30,7-0,United States,15,Damian Jones,PF,Vanderbilt,Golden State Warriors,245,2
+5bfa2d1cdc6f74efb340a181,21,"2016 NBA Draft, Undrafted",6-7,United States,5,Derrick Jones,SF,UNLV,Miami Heat,200,2
+5bfa2d1cdc6f74efb340a182,22,2015 Rnd 1 Pick 24,6-2,United States,1,Tyus Jones,PG,Duke,Minnesota Timberwolves,195,3
+5bfa2d1cdc6f74efb340a183,30,2008 Rnd 2 Pick 5,6-11,United States,6,DeAndre Jordan,C,Texas A&M,Dallas Mavericks,265,10
+5bfa2d1cdc6f74efb340a184,27,2011 Rnd 1 Pick 29,6-3,Canada,6,Cory Joseph,PG,Texas,Indiana Pacers,193,7
+5bfa2d1cdc6f74efb340a185,25,2015 Rnd 1 Pick 9,7-0,United States,44,Frank Kaminsky,F,Wisconsin,Charlotte Hornets,242,3
+5bfa2d1cdc6f74efb340a186,26,2011 Rnd 1 Pick 3,6-11,SwitzerlandTurkey,00,Enes Kanter,F,Kentucky,New York Knicks,245,7
+5bfa2d1cdc6f74efb340a187,22,2017 Rnd 1 Pick 12,6-5,United States,5,Luke Kennard,SG,Duke,Detroit Pistons,206,1
+5bfa2d1cdc6f74efb340a188,25,2012 Rnd 1 Pick 2,6-7,United States,14,Michael Kidd-Gilchrist,SF,Kentucky,Charlotte Hornets,232,6
+5bfa2d1cdc6f74efb340a189,25,2018 Rnd 2 Pick 29,6-6,United States,8,George King,SF,Colorado,Phoenix Suns,220,0
+5bfa2d1cdc6f74efb340a18a,26,"2014 NBA Draft, Undrafted",6-11,Germany,42,Maxi Kleber,PF,s.Oliver Baskets (Germany),Dallas Mavericks,220,1
+5bfa2d1cdc6f74efb340a18b,26,2011 Rnd 1 Pick 8,6-3,United States,2,Brandon Knight,G,Kentucky,Houston Rockets,195,7
+5bfa2d1cdc6f74efb340a18c,19,2018 Rnd 1 Pick 9,6-9,United States,20,Kevin Knox,SF,Kentucky,New York Knicks,215,0
+5bfa2d1cdc6f74efb340a18d,21,2016 Rnd 1 Pick 26,6-7,Turkey,30,Furkan Korkmaz,SG,Anadolu Efes (Turkey),Philadelphia Sixers,185,1
+5bfa2d1cdc6f74efb340a18e,23,"2017 NBA Draft, Undrafted",7-1,United States,2,Luke Kornet,F,Vanderbilt,New York Knicks,250,1
+5bfa2d1cdc6f74efb340a18f,37,2003 Rnd 2 Pick 22,6-7,United States,26,Kyle Korver,SF,Creighton,Cleveland Cavaliers,212,15
+5bfa2d1cdc6f74efb340a190,29,2008 Rnd 1 Pick 23,7-0,United StatesGreece,41,Kosta Koufos,C,Ohio State,Sacramento Kings,265,10
+5bfa2d1cdc6f74efb340a191,20,2018 Rnd 2 Pick 10,6-9,Latvia,00,Rodions Kurucs,SF,FC Barcelona Lassa (Spain),Brooklyn Nets,210,0
+5bfa2d1cdc6f74efb340a192,23,2017 Rnd 1 Pick 27,6-9,United States,0,Kyle Kuzma,F,Utah,Los Angeles Lakers,220,1
+5bfa2d1cdc6f74efb340a193,23,2014 Rnd 1 Pick 13,6-5,United States,8,Zach LaVine,SG,UCLA,Chicago Bulls,200,4
+5bfa2d1cdc6f74efb340a194,22,2016 Rnd 1 Pick 28,6-11,Haiti,7,Skal Labissiere,C,Kentucky,Sacramento Kings,225,2
+5bfa2d1cdc6f74efb340a195,26,2012 Rnd 1 Pick 12,6-5,United States,3,Jeremy Lamb,SG,Connecticut,Charlotte Hornets,185,6
+5bfa2d1cdc6f74efb340a196,24,2016 Rnd 2 Pick 17,6-9,United States,10,Jake Layman,SF,Maryland,Portland Trail Blazers,215,2
+5bfa2d1cdc6f74efb340a197,24,2016 Rnd 1 Pick 20,6-7,United States,22,Caris LeVert,G,Michigan,Brooklyn Nets,204,2
+5bfa2d1cdc6f74efb340a198,21,2017 Rnd 1 Pick 18,6-10,United StatesIsrael,22,T.J. Leaf,PF,UCLA,Indiana Pacers,225,1
+5bfa2d1cdc6f74efb340a199,33,2008 Rnd 1 Pick 22,6-5,United States,5,Courtney Lee,SG,Western Kentucky,New York Knicks,200,10
+5bfa2d1cdc6f74efb340a19a,26,"2016 NBA Draft, Undrafted",6-6,United States,1,Damion Lee,G,Louisville,Golden State Warriors,210,1
+5bfa2d1cdc6f74efb340a19b,26,"2014 NBA Draft, Undrafted",6-3,United States,45,"Walt Lemon, Jr.",G,Bradley,Boston Celtics,180,1
+5bfa2d1cdc6f74efb340a19c,25,2013 Rnd 1 Pick 5,7-1,Ukraine,25,Alex Len,C,Maryland,Atlanta Hawks,250,5
+5bfa2d1cdc6f74efb340a19d,27,2011 Rnd 1 Pick 15,6-7,United States,2,Kawhi Leonard,F,San Diego State,Toronto Raptors,230,7
+5bfa2d1cdc6f74efb340a19e,26,2012 Rnd 1 Pick 11,7-1,United States,11,Meyers Leonard,C,Illinois,Portland Trail Blazers,255,6
+5bfa2d1cdc6f74efb340a19f,29,2011 Rnd 2 Pick 10,6-10,United States,30,Jon Leuer,PF,Wisconsin,Detroit Pistons,228,7
+5bfa2d1cdc6f74efb340a1a0,28,2012 Rnd 1 Pick 6,6-3,United States,0,Damian Lillard,G,Weber State,Portland Trail Blazers,195,6
+5bfa2d1cdc6f74efb340a1a1,30,"2010 NBA Draft, Undrafted",6-3,United States,7,Jeremy Lin,G,Harvard,Atlanta Hawks,200,8
+5bfa2d1cdc6f74efb340a1a2,33,2004 Rnd 1 Pick 4,6-7,United States,34,Shaun Livingston,G,Peoria Central High School  (Illinois),Golden State Warriors,192,14
+5bfa2d1cdc6f74efb340a1a3,26,"2018 NBA Draft, Undrafted",6-4,United States,18,Zach Lofton,G,New Mexico State,Detroit Pistons,180,0
+5bfa2d1cdc6f74efb340a1a4,25,"2017 NBA Draft, Undrafted",6-4,Canada,30,Naz Long,PG,Iowa State,Utah Jazz,218,1
+5bfa2d1cdc6f74efb340a1a5,22,2015 Rnd 1 Pick 30,6-9,United States,5,Kevon Looney,PF,UCLA,Golden State Warriors,220,3
+5bfa2d1cdc6f74efb340a1a6,30,2008 Rnd 1 Pick 10,7-0,United States,11,Brook Lopez,C,Stanford,Milwaukee Bucks,270,10
+5bfa2d1cdc6f74efb340a1a7,30,2008 Rnd 1 Pick 15,7-0,United States,42,Robin Lopez,FC,Stanford,Chicago Bulls,275,10
+5bfa2d1cdc6f74efb340a1a8,30,2008 Rnd 1 Pick 5,6-10,United States,0,Kevin Love,FC,UCLA,Cleveland Cavaliers,251,10
+5bfa2d1cdc6f74efb340a1a9,32,2006 Rnd 1 Pick 24,6-1,United States,7,Kyle Lowry,PG,Villanova,Toronto Raptors,196,12
+5bfa2d1cdc6f74efb340a1aa,26,"2016 NBA Draft, Undrafted",6-4,United States,8,Jordan Loyd,G,Indianapolis,Toronto Raptors,210,0
+5bfa2d1cdc6f74efb340a1ab,23,2016 Rnd 1 Pick 24,6-6,France,7,Timothe Luwawu-Cabarrot,F,KK Mega Bemax (Serbia),Oklahoma City Thunder,210,2
+5bfa2d1cdc6f74efb340a1ac,22,2017 Rnd 1 Pick 24,6-10,United States,20,Tyler Lydon,PF,Syracuse,Denver Nuggets,225,1
+5bfa2d1cdc6f74efb340a1ad,23,2015 Rnd 1 Pick 12,6-10,CanadaUnited States,7,Trey Lyles,SF,Kentucky,Denver Nuggets,234,3
+5bfa2d1cdc6f74efb340a1ae,28,2011 Rnd 2 Pick 4,6-3,United States,6,Shelvin Mack,G,Butler,Memphis Grizzlies,203,7
+5bfa2d1cdc6f74efb340a1af,24,"2018 NBA Draft, Undrafted",6-3,United States,3,Daryl Macon,PG,Arkansas,Dallas Mavericks,185,0
+5bfa2d1cdc6f74efb340a1b0,24,"2018 NBA Draft, Undrafted",6-5,United States,55,J.P. Macura,SG,Xavier,Charlotte Hornets,205,0
+5bfa2d1cdc6f74efb340a1b1,32,2005 Rnd 1 Pick 28,6-11,France,28,Ian Mahinmi,C,STB Le Havre (France),Washington Wizards,262,11
+5bfa2d1cdc6f74efb340a1b2,21,2016 Rnd 1 Pick 10,7-1,South SudanAustralia,7,Thon Maker,C, ,Milwaukee Bucks,221,2
+5bfa2d1cdc6f74efb340a1b3,30,"2010 NBA Draft, Undrafted",7-3,Serbia,51,Boban Marjanovic,C,KK Vrsac Swisslion (Serbia),Los Angeles Clippers,290,3
+5bfa2d1cdc6f74efb340a1b4,21,2017 Rnd 1 Pick 7,7-0,Finland,24,Lauri Markkanen,SF,Arizona,Chicago Bulls,240,1
+5bfa2d1cdc6f74efb340a1b5,24,2015 Rnd 1 Pick 25,6-10,United States,2,Jarell Martin,F,LSU,Orlando Magic,239,3
+5bfa2d1cdc6f74efb340a1b6,24,2017 Rnd 2 Pick 4,5-11,United States,10,Frank Mason,G,Kansas,Sacramento Kings,190,1
+5bfa2d1cdc6f74efb340a1b7,22,"2018 NBA Draft, Undrafted",6-8,United States,00,Yante Maten,PF,Georgia,Miami Heat,240,0
+5bfa2d1cdc6f74efb340a1b8,32,"2009 NBA Draft, Undrafted",6-5,United States,23,Wesley Matthews,G,Marquette,Dallas Mavericks,220,9
+5bfa2d1cdc6f74efb340a1b9,32,2008 Rnd 2 Pick 7,6-8,Cameroon,12,Luc Mbah a Moute,F,UCLA,Los Angeles Clippers,230,10
+5bfa2d1cdc6f74efb340a1ba,27,2013 Rnd 1 Pick 10,6-3,United States,3,C.J. McCollum,G,Lehigh,Portland Trail Blazers,190,5
+5bfa2d1cdc6f74efb340a1bb,26,"2015 NBA Draft, Undrafted",6-2,United States,12,T.J. McConnell,G,Arizona,Philadelphia Sixers,190,3
+5bfa2d1cdc6f74efb340a1bc,26,2014 Rnd 1 Pick 11,6-8,United States,20,Doug McDermott,F,Creighton,Indiana Pacers,219,4
+5bfa2d1cdc6f74efb340a1bd,30,2008 Rnd 1 Pick 18,7-0,United States,7,JaVale McGee,C,Nevada,Los Angeles Lakers,270,10
+5bfa2d1cdc6f74efb340a1be,27,"2013 NBA Draft, Undrafted",6-4,United States,17,Rodney McGruder,SG,Kansas State,Miami Heat,200,2
+5bfa2d1cdc6f74efb340a1bf,26,"2015 NBA Draft, Undrafted",6-8,United States,28,Alfonzo McKinnie,F,Green Bay,Golden State Warriors,215,1
+5bfa2d1cdc6f74efb340a1c0,25,2013 Rnd 1 Pick 7,6-5,United States,23,Ben McLemore,SG,Kansas,Sacramento Kings,195,5
+5bfa2d1cdc6f74efb340a1c1,27,2014 Rnd 2 Pick 28,6-5,United States,52,Jordan McRae,G,Tennessee,Washington Wizards,179,2
+5bfa2d1cdc6f74efb340a1c2,31,2009 Rnd 2 Pick 11,6-4,United States,20,Jodie Meeks,G,Kentucky,Milwaukee Bucks,210,9
+5bfa2d1cdc6f74efb340a1c3,32,"2008 NBA Draft, Undrafted",7-2,Tunisia,50,Salah Mejri,C,Etoile Sportive du Sahel (Tunisia),Dallas Mavericks,235,3
+5bfa2d1cdc6f74efb340a1c4,20,2018 Rnd 2 Pick 16,6-4,United States,14,De'Anthony Melton,SG,USC,Phoenix Suns,200,0
+5bfa2d1cdc6f74efb340a1c5,21,2018 Rnd 2 Pick 19,6-10,United StatesNigeria,7,Chimezie Metu,PF,USC,San Antonio Spurs,225,0
+5bfa2d1cdc6f74efb340a1c6,27,2012 Rnd 2 Pick 9,6-8,United States,22,Khris Middleton,SF,Texas A&M,Milwaukee Bucks,222,6
+5bfa2d1cdc6f74efb340a1c7,31,2005 Rnd 2 Pick 4,6-6,United States,0,C.J. Miles,GF,Skyline High School  (Texas),Toronto Raptors,230,13
+5bfa2d1cdc6f74efb340a1c8,28,2012 Rnd 2 Pick 16,6-8,United States,21,Darius Miller,GF,Kentucky,New Orleans Pelicans,225,4
+5bfa2d1cdc6f74efb340a1c9,30,2009 Rnd 2 Pick 25,6-0,Australia,8,Patty Mills,G,Saint Mary's,San Antonio Spurs,180,9
+5bfa2d1cdc6f74efb340a1ca,33,2006 Rnd 2 Pick 17,6-8,United States,4,Paul Millsap,FC,Louisiana Tech,Denver Nuggets,246,12
+5bfa2d1cdc6f74efb340a1cb,23,2018 Rnd 2 Pick 24,6-6,United States,18,Shake Milton,SG,Southern Methodist,Philadelphia Sixers,205,0
+5bfa2d1cdc6f74efb340a1cc,27,2011 Rnd 1 Pick 23,6-10,MontenegroSpain,3,Nikola Mirotic,F,Real Madrid (Spain),New Orleans Pelicans,250,4
+5bfa2d1cdc6f74efb340a1cd,22,2017 Rnd 1 Pick 13,6-3,United States,45,Donovan Mitchell,SG,Louisville,Utah Jazz,215,1
+5bfa2d1cdc6f74efb340a1ce,20,2017 Rnd 1 Pick 11,6-3,United States,1,Malik Monk,SG,Kentucky,Charlotte Hornets,200,1
+5bfa2d1cdc6f74efb340a1cf,28,2010 Rnd 1 Pick 7,6-11,United States,15,Greg Monroe,FC,Georgetown,Toronto Raptors,265,8
+5bfa2d1cdc6f74efb340a1d0,23,"2017 NBA Draft, Undrafted",6-8,United States,26,Ben Moore,F,Southern Methodist,San Antonio Spurs,220,1
+5bfa2d1cdc6f74efb340a1d1,29,2011 Rnd 2 Pick 25,6-4,United States,55,E'Twaun Moore,SG,Purdue,New Orleans Pelicans,191,7
+5bfa2d1cdc6f74efb340a1d2,23,"2017 NBA Draft, Undrafted",6-5,United States,30,Jaylen Morris,G,Molloy,Milwaukee Bucks,192,1
+5bfa2d1cdc6f74efb340a1d3,29,2011 Rnd 1 Pick 14,6-9,United States,13,Marcus Morris,F,Kansas,Boston Celtics,235,7
+5bfa2d1cdc6f74efb340a1d4,29,2011 Rnd 1 Pick 13,6-10,United States,5,Markieff Morris,PF,Kansas,Washington Wizards,245,7
+5bfa2d1cdc6f74efb340a1d5,23,2017 Rnd 2 Pick 21,6-3,United States,11,Monte Morris,G,Iowa State,Denver Nuggets,175,1
+5bfa2d1cdc6f74efb340a1d6,24,"2017 NBA Draft, Undrafted",6-10,United States,15,Johnathan Motley,F,Baylor,Los Angeles Clippers,230,1
+5bfa2d1cdc6f74efb340a1d7,32,"2008 NBA Draft, Undrafted",7-1,Russia,21,Timofey Mozgov,C,Khimki (Russia),Orlando Magic,275,8
+5bfa2d1cdc6f74efb340a1d8,22,2015 Rnd 1 Pick 7,6-5,United StatesDemocratic Republic of the Congo,1,Emmanuel Mudiay,SG,Guangzhou Long-Lions (China),New York Knicks,200,3
+5bfa2d1cdc6f74efb340a1d9,22,2016 Rnd 1 Pick 29,6-5,United States,5,Dejounte Murray,SG,Washington,San Antonio Spurs,170,2
+5bfa2d1cdc6f74efb340a1da,21,2016 Rnd 1 Pick 7,6-4,Canada,27,Jamal Murray,SG,Kentucky,Denver Nuggets,207,2
+5bfa2d1cdc6f74efb340a1db,19,2018 Rnd 1 Pick 29,6-9,Bosnia and Herzegovina,30,Dzanan Musa,SG,Cedevita (Croatia),Brooklyn Nets,208,0
+5bfa2d1cdc6f74efb340a1dc,27,2013 Rnd 2 Pick 14,6-11,United States,31,Mike Muscala,FC,Bucknell,Philadelphia Sixers,240,5
+5bfa2d1cdc6f74efb340a1dd,21,2018 Rnd 2 Pick 17,6-8,Ukraine,10,Svi Mykhailiuk,SF,Kansas,Los Angeles Lakers,212,0
+5bfa2d1cdc6f74efb340a1de,24,2016 Rnd 2 Pick 28,6-6,United StatesEgypt,11,Abdel Nader,SF,Iowa State,Oklahoma City Thunder,225,1
+5bfa2d1cdc6f74efb340a1df,25,2015 Rnd 1 Pick 27,6-9,United States,22,"Larry Nance, Jr.",SF,Wyoming,Cleveland Cavaliers,230,3
+5bfa2d1cdc6f74efb340a1e0,27,2014 Rnd 1 Pick 24,6-1,United StatesPuerto Rico,13,Shabazz Napier,PG,Connecticut,Brooklyn Nets,180,4
+5bfa2d1cdc6f74efb340a1e1,36,2002 Rnd 1 Pick 7,6-11,Brazil,42,Maybyner Nene,C,Vasco da Gama (Brazil),Houston Rockets,250,16
+5bfa2d1cdc6f74efb340a1e2,26,2013 Rnd 2 Pick 17,6-1,Brazil,25,Raulzinho Neto,PG,Delteco GBC (Spain),Utah Jazz,179,3
+5bfa2d1cdc6f74efb340a1e3,25,2016 Rnd 2 Pick 20,6-8,United States,31,Georges Niang,F,Iowa State,Utah Jazz,230,2
+5bfa2d1cdc6f74efb340a1e4,24,2013 Rnd 1 Pick 6,6-11,United States,3,Nerlens Noel,FC,Kentucky,Oklahoma City Thunder,220,5
+5bfa2d1cdc6f74efb340a1e5,40,1998 Rnd 1 Pick 9,7-0,Germany,41,Dirk Nowitzki,PF,DJK Wurzburg (Germany),Dallas Mavericks,245,20
+5bfa2d1cdc6f74efb340a1e6,20,2017 Rnd 1 Pick 8,6-5,BelgiumFrance,11,Frank Ntilikina,PG,Strasbourg IG (France),New York Knicks,190,1
+5bfa2d1cdc6f74efb340a1e7,28,"2012 NBA Draft, Undrafted",6-7,United States,7,James Nunnally,F,UC Santa Barbara,Minnesota Timberwolves,220,1
+5bfa2d1cdc6f74efb340a1e8,24,2014 Rnd 1 Pick 16,7-0,Bosnia and Herzegovina,27,Jusuf Nurkic,FC,Cedevita (Croatia),Portland Trail Blazers,275,4
+5bfa2d1cdc6f74efb340a1e9,25,"2016 NBA Draft, Undrafted",6-4,United States,12,David Nwaba,G,Cal Poly,Cleveland Cavaliers,219,2
+5bfa2d1cdc6f74efb340a1ea,25,"2015 NBA Draft, Undrafted",6-6,United States,23,Royce O'Neale,SF,Baylor,Utah Jazz,226,1
+5bfa2d1cdc6f74efb340a1eb,28,2012 Rnd 2 Pick 19,6-10,United States,10,Kyle O'Quinn,F,Norfolk State,Indiana Pacers,250,6
+5bfa2d1cdc6f74efb340a1ec,23,2017 Rnd 2 Pick 7,6-7,United States,37,Semi Ojeleye,SF,Southern Methodist,Boston Celtics,241,1
+5bfa2d1cdc6f74efb340a1ed,22,2015 Rnd 1 Pick 3,6-11,United States,8,Jahlil Okafor,C,Duke,New Orleans Pelicans,275,3
+5bfa2d1cdc6f74efb340a1ee,21,2018 Rnd 2 Pick 1,6-2,France,2,Elie Okobo,PG,Pau-Orthez (France),Phoenix Suns,180,0
+5bfa2d1cdc6f74efb340a1ef,20,2018 Rnd 1 Pick 20,6-5,NigeriaUnited States,20,Josh Okogie,SG,Georgia Tech,Minnesota Timberwolves,211,0
+5bfa2d1cdc6f74efb340a1f0,26,2013 Rnd 1 Pick 2,6-4,United States,4,Victor Oladipo,G,Indiana,Indiana Pacers,210,5
+5bfa2d1cdc6f74efb340a1f1,27,2013 Rnd 1 Pick 13,7-0,Canada,9,Kelly Olynyk,C,Gonzaga,Miami Heat,240,5
+5bfa2d1cdc6f74efb340a1f2,23,2015 Rnd 2 Pick 1,6-8,MacedoniaTurkey,16,Cedi Osman,GF,Anadolu Efes (Turkey),Cleveland Cavaliers,215,1
+5bfa2d1cdc6f74efb340a1f3,22,2015 Rnd 1 Pick 15,6-7,United States,12,"Kelly Oubre, Jr.",SF,Kansas,Washington Wizards,205,3
+5bfa2d1cdc6f74efb340a1f4,34,2003 Rnd 2 Pick 13,6-11,Georgia,27,Zaza Pachulia,C,Alpella B.K. (Turkey),Detroit Pistons,270,15
+5bfa2d1cdc6f74efb340a1f5,23,2014 Rnd 1 Pick 2,6-8,United States,2,Jabari Parker,F,Duke,Chicago Bulls,245,4
+5bfa2d1cdc6f74efb340a1f6,36,2001 Rnd 1 Pick 28,6-2,France,9,Tony Parker,G,Paris Basket Racing (France),Charlotte Hornets,185,17
+5bfa2d1cdc6f74efb340a1f7,30,2011 Rnd 2 Pick 8,6-10,United States,25,Chandler Parsons,SF,Florida,Memphis Grizzlies,230,7
+5bfa2d1cdc6f74efb340a1f8,29,2010 Rnd 1 Pick 14,6-9,United States,54,Patrick Patterson,F,Kentucky,Oklahoma City Thunder,230,8
+5bfa2d1cdc6f74efb340a1f9,21,2017 Rnd 1 Pick 16,7-0,United States,0,Justin Patton,C,Creighton,Philadelphia Sixers,230,1
+5bfa2d1cdc6f74efb340a1fa,33,2005 Rnd 1 Pick 4,6-0,United States,3,Chris Paul,PG,Wake Forest,Houston Rockets,175,13
+5bfa2d1cdc6f74efb340a1fb,24,2015 Rnd 1 Pick 14,6-3,United States,22,Cameron Payne,G,Murray State,Chicago Bulls,190,3
+5bfa2d1cdc6f74efb340a1fc,24,2014 Rnd 1 Pick 10,6-4,United States,4,Elfrid Payton,G,Louisiana,New Orleans Pelicans,185,4
+5bfa2d1cdc6f74efb340a1fd,23,"2018 NBA Draft, Undrafted",6-6,United States,10,Theo Pinson,SG,North Carolina,Brooklyn Nets,218,0
+5bfa2d1cdc6f74efb340a1fe,28,2013 Rnd 1 Pick 22,6-11,United States,24,Mason Plumlee,PF,Duke,Denver Nuggets,255,5
+5bfa2d1cdc6f74efb340a1ff,30,2012 Rnd 1 Pick 26,6-11,United States,18,Miles Plumlee,C,Duke,Atlanta Hawks,249,6
+5bfa2d1cdc6f74efb340a200,23,2016 Rnd 1 Pick 9,7-0,Austria,25,Jakob Poeltl,C,Utah,San Antonio Spurs,230,2
+5bfa2d1cdc6f74efb340a201,30,2010 Rnd 1 Pick 26,6-7,United States,3,Quincy Pondexter,F,Washington,San Antonio Spurs,230,8
+5bfa2d1cdc6f74efb340a202,20,2018 Rnd 1 Pick 14,6-10,United States,1,"Michael Porter, Jr.",PF,Missouri,Denver Nuggets,210,0
+5bfa2d1cdc6f74efb340a203,25,2013 Rnd 1 Pick 3,6-8,United States,22,Otto Porter,SF,Georgetown,Washington Wizards,198,5
+5bfa2d1cdc6f74efb340a204,23,2015 Rnd 1 Pick 22,6-11,United States,5,Bobby Portis,PF,Arkansas,Chicago Bulls,250,3
+5bfa2d1cdc6f74efb340a205,23,2015 Rnd 1 Pick 4,7-3,Latvia,6,Kristaps Porzingis,FC,Real Betis Energia Plus (Spain),New York Knicks,240,3
+5bfa2d1cdc6f74efb340a206,27,2014 Rnd 2 Pick 15,6-11,Canada,7,Dwight Powell,PF,Stanford,Dallas Mavericks,240,4
+5bfa2d1cdc6f74efb340a207,25,2015 Rnd 2 Pick 16,6-4,United States,24,Norman Powell,SG,UCLA,Toronto Raptors,215,3
+5bfa2d1cdc6f74efb340a208,25,"2016 NBA Draft, Undrafted",6-9,United States,22,Alex Poythress,F,Kentucky,Atlanta Hawks,235,2
+5bfa2d1cdc6f74efb340a209,22,"2018 NBA Draft, Undrafted",6-10,United States,20,Billy Preston,PF,Kansas,Cleveland Cavaliers,230,0
+5bfa2d1cdc6f74efb340a20a,24,2016 Rnd 1 Pick 12,6-8,United States,12,Taurean Prince,F,Baylor,Atlanta Hawks,220,2
+5bfa2d1cdc6f74efb340a20b,22,2016 Rnd 2 Pick 13,7-1,China,9,Zhou Qi,C,Xinjiang Guanghui (China),Houston Rockets,210,1
+5bfa2d1cdc6f74efb340a20c,21,2017 Rnd 2 Pick 5,6-10,United States,10,Ivan Rabb,PF,California,Memphis Grizzlies,220,1
+5bfa2d1cdc6f74efb340a20d,23,2014 Rnd 1 Pick 7,6-9,United States,30,Julius Randle,PF,Kentucky,New Orleans Pelicans,250,4
+5bfa2d1cdc6f74efb340a20e,37,2001 Rnd 1 Pick 19,6-9,United States,50,Zach Randolph,PF,Michigan State,Sacramento Kings,260,17
+5bfa2d1cdc6f74efb340a20f,34,2006 Rnd 1 Pick 11,6-4,United States,17,J.J. Redick,G,Duke,Philadelphia Sixers,195,12
+5bfa2d1cdc6f74efb340a210,24,2017 Rnd 2 Pick 2,6-6,United States,32,Davon Reed,SF,Miami (FL),Indiana Pacers,210,1
+5bfa2d1cdc6f74efb340a211,25,2015 Rnd 2 Pick 10,6-6,United States,0,Josh Richardson,G,Tennessee,Miami Heat,200,3
+5bfa2d1cdc6f74efb340a212,22,2016 Rnd 1 Pick 22,6-6,United States,22,Malachi Richardson,SF,Syracuse,Toronto Raptors,205,2
+5bfa2d1cdc6f74efb340a213,26,2012 Rnd 1 Pick 10,6-4,United States,1,Austin Rivers,SG,Duke,Washington Wizards,200,6
+5bfa2d1cdc6f74efb340a214,26,2013 Rnd 1 Pick 26,6-7,United States,21,Andre Roberson,SG,Colorado,Oklahoma City Thunder,210,5
+5bfa2d1cdc6f74efb340a215,24,"2017 NBA Draft, Undrafted",6-8,United States,7,Devin Robinson,F,Florida,Washington Wizards,200,1
+5bfa2d1cdc6f74efb340a216,25,"2018 NBA Draft, Undrafted",6-8,United States,55,Duncan Robinson,F,Michigan,Miami Heat,210,0
+5bfa2d1cdc6f74efb340a217,24,2014 Rnd 2 Pick 10,6-6,United States,22,Glenn Robinson,SF,Michigan,Detroit Pistons,222,4
+5bfa2d1cdc6f74efb340a218,21,2018 Rnd 1 Pick 13,6-5,United States,10,Jerome Robinson,SG,Boston College,Los Angeles Clippers,190,0
+5bfa2d1cdc6f74efb340a219,20,2018 Rnd 2 Pick 6,7-0,United States,26,Mitchell Robinson,C, ,New York Knicks,225,0
+5bfa2d1cdc6f74efb340a21a,32,2006 Rnd 1 Pick 21,6-1,United States,9,Rajon Rondo,PG,Kentucky,Los Angeles Lakers,186,12
+5bfa2d1cdc6f74efb340a21b,30,2008 Rnd 1 Pick 1,6-3,United States,25,Derrick Rose,PG,Memphis,Minnesota Timberwolves,190,10
+5bfa2d1cdc6f74efb340a21c,27,2012 Rnd 1 Pick 8,6-7,United States,31,Terrence Ross,SF,Washington,Orlando Magic,206,6
+5bfa2d1cdc6f74efb340a21d,24,2015 Rnd 1 Pick 16,6-1,United States,12,Terry Rozier,G,Louisville,Boston Celtics,190,3
+5bfa2d1cdc6f74efb340a21e,28,2009 Rnd 1 Pick 5,6-4,Spain,3,Ricky Rubio,G,Divina Seguros Joventut (Spain),Utah Jazz,190,7
+5bfa2d1cdc6f74efb340a21f,22,2015 Rnd 1 Pick 2,6-5,United States,1,D'Angelo Russell,SG,Ohio State,Brooklyn Nets,198,3
+5bfa2d1cdc6f74efb340a220,22,2016 Rnd 1 Pick 11,6-11,United StatesLithuania,11,Domas Sabonis,PF,Gonzaga,Indiana Pacers,240,2
+5bfa2d1cdc6f74efb340a221,24,2014 Rnd 1 Pick 12,6-10,Croatia,36,Dario Saric,SF,KK Cibona (Croatia),Minnesota Timberwolves,250,2
+5bfa2d1cdc6f74efb340a222,27,2012 Rnd 2 Pick 2,6-7,Czech Republic,31,Tomas Satoransky,PG,Real Betis Energia Plus (Spain),Washington Wizards,210,2
+5bfa2d1cdc6f74efb340a223,25,2013 Rnd 1 Pick 17,6-1,Germany,17,Dennis Schroder,PG,Basketball Lowen Braunschweig (Germany),Oklahoma City Thunder,172,5
+5bfa2d1cdc6f74efb340a224,30,2012 Rnd 2 Pick 13,6-8,United States,30,Mike Scott,PF,Virginia,Los Angeles Clippers,237,6
+5bfa2d1cdc6f74efb340a225,34,2006 Rnd 1 Pick 13,6-7,Switzerland,22,Thabo Sefolosha,GF,Pallacanestro Biella (Italy),Utah Jazz,220,12
+5bfa2d1cdc6f74efb340a226,24,"2016 NBA Draft, Undrafted",6-5,United States,7,Wayne Selden,SG,Kansas,Memphis Grizzlies,230,2
+5bfa2d1cdc6f74efb340a227,19,2018 Rnd 1 Pick 8,6-2,United States,2,Collin Sexton,PG,Alabama,Cleveland Cavaliers,190,0
+5bfa2d1cdc6f74efb340a228,21,2018 Rnd 1 Pick 26,6-5,United States,1,Landry Shamet,PG,Wichita State,Philadelphia Sixers,190,0
+5bfa2d1cdc6f74efb340a229,28,2011 Rnd 1 Pick 17,6-5,United States,9,Iman Shumpert,G,Georgia Tech,Sacramento Kings,220,7
+5bfa2d1cdc6f74efb340a22a,24,2016 Rnd 1 Pick 27,6-9,Cameroon,43,Pascal Siakam,F,New Mexico State,Toronto Raptors,230,2
+5bfa2d1cdc6f74efb340a22b,22,2016 Rnd 1 Pick 1,6-10,Australia,25,Ben Simmons,PF,LSU,Philadelphia Sixers,230,2
+5bfa2d1cdc6f74efb340a22c,29,"2012 NBA Draft, Undrafted",6-6,United States,17,Jonathon Simmons,G,Houston,Orlando Magic,195,3
+5bfa2d1cdc6f74efb340a22d,19,2018 Rnd 1 Pick 24,6-4,United States,24,Anfernee Simons,SG, ,Portland Trail Blazers,185,0
+5bfa2d1cdc6f74efb340a22e,24,2014 Rnd 1 Pick 6,6-4,United States,36,Marcus Smart,PG,Oklahoma State,Boston Celtics,220,4
+5bfa2d1cdc6f74efb340a22f,20,2017 Rnd 1 Pick 9,6-3,United States,1,Dennis Smith,PG,NC State,Dallas Mavericks,195,1
+5bfa2d1cdc6f74efb340a230,30,"2010 NBA Draft, Undrafted",6-0,United States,14,Ish Smith,PG,Wake Forest,Detroit Pistons,175,8
+5bfa2d1cdc6f74efb340a231,33,2004 Rnd 1 Pick 18,6-6,United States,5,J.R. Smith,SG,Saint Benedict's Preparatory School (New Jersey),Cleveland Cavaliers,225,14
+5bfa2d1cdc6f74efb340a232,32,2007 Rnd 1 Pick 20,7-0,United States,14,Jason Smith,PF,Colorado State,Washington Wizards,240,11
+5bfa2d1cdc6f74efb340a233,19,2018 Rnd 1 Pick 16,6-4,United States,8,Zhaire Smith,SG,Texas Tech,Philadelphia Sixers,200,0
+5bfa2d1cdc6f74efb340a234,27,2013 Rnd 1 Pick 20,6-7,United States,21,Tony Snell,G,New Mexico,Milwaukee Bucks,213,5
+5bfa2d1cdc6f74efb340a235,21,2018 Rnd 2 Pick 26,6-10,United States,26,Raymond Spalding,PF,Louisville,Dallas Mavericks,215,0
+5bfa2d1cdc6f74efb340a236,21,2018 Rnd 1 Pick 30,6-9,United States,6,Omari Spellman,PF,Villanova,Atlanta Hawks,245,0
+5bfa2d1cdc6f74efb340a237,25,2014 Rnd 1 Pick 8,6-6,Canada,6,Nik Stauskas,SG,Michigan,Portland Trail Blazers,205,4
+5bfa2d1cdc6f74efb340a238,27,"2013 NBA Draft, Undrafted",6-5,United States,20,D.J. Stephens,GF,Memphis,Memphis Grizzlies,188,1
+5bfa2d1cdc6f74efb340a239,28,2010 Rnd 2 Pick 10,6-6,United States,6,Lance Stephenson,SG,Cincinnati,Los Angeles Lakers,230,8
+5bfa2d1cdc6f74efb340a23a,23,2017 Rnd 2 Pick 22,6-6,United States,5,Edmond Sumner,G,Xavier,Indiana Pacers,176,1
+5bfa2d1cdc6f74efb340a23b,21,2017 Rnd 1 Pick 26,6-9,United States,50,Caleb Swanigan,C,Purdue,Portland Trail Blazers,250,1
+5bfa2d1cdc6f74efb340a23c,20,2017 Rnd 1 Pick 3,6-8,United States,0,Jayson Tatum,SF,Duke,Boston Celtics,208,1
+5bfa2d1cdc6f74efb340a23d,30,2009 Rnd 1 Pick 19,6-2,United States,0,Jeff Teague,PG,Wake Forest,Minnesota Timberwolves,186,9
+5bfa2d1cdc6f74efb340a23e,32,"2009 NBA Draft, Undrafted",6-6,United States,17,Garrett Temple,G,LSU,Memphis Grizzlies,195,8
+5bfa2d1cdc6f74efb340a23f,31,"2009 NBA Draft, Undrafted",6-5,Serbia,4,Milos Teodosic,PG,Olympiacos (Greece),Los Angeles Clippers,196,1
+5bfa2d1cdc6f74efb340a240,24,"2018 NBA Draft, Undrafted",6-3,United States,3,Jared Terrell,SG,Rhode Island,Minnesota Timberwolves,215,0
+5bfa2d1cdc6f74efb340a241,26,"2013 NBA Draft, Undrafted",6-8,Germany,27,Daniel Theis,C,Ratiopharm Ulm (Germany),Boston Celtics,243,1
+5bfa2d1cdc6f74efb340a242,29,2011 Rnd 2 Pick 30,5-9,United States,0,Isaiah Thomas,PG,Washington,Denver Nuggets,185,7
+5bfa2d1cdc6f74efb340a243,22,2018 Rnd 2 Pick 8,6-3,United States,13,Khyri Thomas,SG,Creighton,Detroit Pistons,210,0
+5bfa2d1cdc6f74efb340a244,30,"2010 NBA Draft, Undrafted",6-8,United States,42,Lance Thomas,F,Duke,New York Knicks,235,7
+5bfa2d1cdc6f74efb340a245,28,2011 Rnd 1 Pick 11,6-7,United States,11,Klay Thompson,G,Washington State,Golden State Warriors,215,7
+5bfa2d1cdc6f74efb340a246,27,2011 Rnd 1 Pick 4,6-10,Canada,13,Tristan Thompson,F,Texas,Cleveland Cavaliers,238,7
+5bfa2d1cdc6f74efb340a247,24,2017 Rnd 2 Pick 18,6-5,United States,0,Sindarius Thornwell,SG,South Carolina,Los Angeles Clippers,215,1
+5bfa2d1cdc6f74efb340a248,33,"2007 NBA Draft, Undrafted",6-8,United States,43,Anthony Tolliver,PF,Creighton,Minnesota Timberwolves,240,11
+5bfa2d1cdc6f74efb340a249,23,2015 Rnd 1 Pick 1,7-0,United StatesDominican Republic,32,Karl-Anthony Towns,C,Kentucky,Minnesota Timberwolves,244,3
+5bfa2d1cdc6f74efb340a24a,19,2018 Rnd 2 Pick 7,6-6,United States,9,"Gary Trent, Jr.",SG,Duke,Portland Trail Blazers,205,0
+5bfa2d1cdc6f74efb340a24b,23,"2018 NBA Draft, Undrafted",6-5,United States,14,Allonzo Trier,SG,Arizona,New York Knicks,200,0
+5bfa2d1cdc6f74efb340a24c,33,2006 Rnd 2 Pick 5,6-6,United States,4,P.J. Tucker,SF,Texas,Houston Rockets,245,7
+5bfa2d1cdc6f74efb340a24d,30,2010 Rnd 1 Pick 2,6-7,United States,1,Evan Turner,GF,Ohio State,Portland Trail Blazers,220,8
+5bfa2d1cdc6f74efb340a24e,22,2015 Rnd 1 Pick 11,6-11,United States,33,Myles Turner,FC,Texas,Indiana Pacers,250,3
+5bfa2d1cdc6f74efb340a24f,31,2010 Rnd 1 Pick 6,6-10,United States,33,Ekpe Udoh,PF,Baylor,Utah Jazz,245,6
+5bfa2d1cdc6f74efb340a250,23,2016 Rnd 2 Pick 4,5-10,United States,0,Tyler Ulis,PG,Kentucky,Chicago Bulls,160,2
+5bfa2d1cdc6f74efb340a251,26,2011 Rnd 1 Pick 5,7-0,Lithuania,17,Jonas Valanciunas,C,Lietuvos Rytas (Lithuania),Toronto Raptors,265,6
+5bfa2d1cdc6f74efb340a252,25,2016 Rnd 1 Pick 14,6-6,United States,45,Denzel Valentine,F,Michigan State,Chicago Bulls,210,2
+5bfa2d1cdc6f74efb340a253,24,"2016 NBA Draft, Undrafted",6-0,United States,23,Fred VanVleet,G,Wichita State,Toronto Raptors,195,2
+5bfa2d1cdc6f74efb340a254,19,2018 Rnd 2 Pick 11,6-9,United States,8,Jarred Vanderbilt,PF,Kentucky,Denver Nuggets,214,0
+5bfa2d1cdc6f74efb340a255,23,2014 Rnd 1 Pick 9,6-9,United States,32,Noah Vonleh,FC,Indiana,New York Knicks,245,4
+5bfa2d1cdc6f74efb340a256,28,2011 Rnd 1 Pick 16,7-0,SwitzerlandMontenegro,9,Nikola Vucevic,PF,USC,Orlando Magic,260,7
+5bfa2d1cdc6f74efb340a257,36,2003 Rnd 1 Pick 5,6-4,United States,3,Dwyane Wade,SG,Marquette,Miami Heat,220,15
+5bfa2d1cdc6f74efb340a258,21,2018 Rnd 1 Pick 25,7-0,Germany,15,Moe Wagner,PF,Michigan,Los Angeles Lakers,241,0
+5bfa2d1cdc6f74efb340a259,26,2012 Rnd 1 Pick 4,6-4,United States,11,Dion Waiters,SG,Syracuse,Miami Heat,215,6
+5bfa2d1cdc6f74efb340a25a,28,2011 Rnd 1 Pick 9,6-1,United States,15,Kemba Walker,G,Connecticut,Charlotte Hornets,184,7
+5bfa2d1cdc6f74efb340a25b,19,2018 Rnd 1 Pick 18,6-5,United States,1,Lonnie Walker,SG,Miami (FL),San Antonio Spurs,205,0
+5bfa2d1cdc6f74efb340a25c,28,2010 Rnd 1 Pick 1,6-4,United States,2,John Wall,PG,Kentucky,Washington Wizards,210,8
+5bfa2d1cdc6f74efb340a25d,24,2016 Rnd 2 Pick 30,6-5,United States,12,Tyrone Wallace,G,California,Los Angeles Clippers,195,1
+5bfa2d1cdc6f74efb340a25e,29,"2011 NBA Draft, Undrafted",6-4,United States,9,Brad Wanamaker,SG,Pittsburgh,Boston Celtics,210,0
+5bfa2d1cdc6f74efb340a25f,25,2014 Rnd 1 Pick 14,6-8,United States,12,T.J. Warren,F,NC State,Phoenix Suns,225,4
+5bfa2d1cdc6f74efb340a260,25,"2018 NBA Draft, Undrafted",6-9,Japan,12,Yuta Watanabe,F,George Washington,Memphis Grizzlies,205,0
+5bfa2d1cdc6f74efb340a261,24,2018 Rnd 2 Pick 28,7-0,United States,45,Thomas Welsh,C,UCLA,Denver Nuggets,255,0
+5bfa2d1cdc6f74efb340a262,30,2008 Rnd 1 Pick 4,6-3,United States,0,Russell Westbrook,G,UCLA,Oklahoma City Thunder,200,10
+5bfa2d1cdc6f74efb340a263,24,2017 Rnd 1 Pick 29,6-4,United States,4,Derrick White,G,Colorado,San Antonio Spurs,190,1
+5bfa2d1cdc6f74efb340a264,26,"2014 NBA Draft, Undrafted",6-8,United States,17,Okaro White,F,Florida State,Washington Wizards,205,2
+5bfa2d1cdc6f74efb340a265,29,2010 Rnd 2 Pick 3,7-0,United States,21,Hassan Whiteside,C,Marshall,Miami Heat,265,6
+5bfa2d1cdc6f74efb340a266,23,2014 Rnd 1 Pick 1,6-8,Canada,22,Andrew Wiggins,F,Kansas,Minnesota Timberwolves,199,4
+5bfa2d1cdc6f74efb340a267,25,"2015 NBA Draft, Undrafted",6-8,United States,15,Alan Williams,FC,UC Santa Barbara,Brooklyn Nets,265,3
+5bfa2d1cdc6f74efb340a268,28,"2012 NBA Draft, Undrafted",6-5,United States,12,C.J. Williams,SG,NC State,Minnesota Timberwolves,230,1
+5bfa2d1cdc6f74efb340a269,23,"2018 NBA Draft, Undrafted",6-9,United States,19,Johnathan Williams,PF,Gonzaga,Los Angeles Lakers,230,0
+5bfa2d1cdc6f74efb340a26a,23,"2018 NBA Draft, Undrafted",6-7,United States,34,Kenrich Williams,SF,Texas Christian,New Orleans Pelicans,210,0
+5bfa2d1cdc6f74efb340a26b,32,2005 Rnd 2 Pick 15,6-1,United States,23,Lou Williams,G,South Gwinnett High School (Georgia),Los Angeles Clippers,175,13
+5bfa2d1cdc6f74efb340a26c,32,2005 Rnd 1 Pick 2,6-9,United States,2,Marvin Williams,SF,North Carolina,Charlotte Hornets,237,13
+5bfa2d1cdc6f74efb340a26d,21,2018 Rnd 1 Pick 27,6-10,United States,44,Robert Williams,PF,Texas A&M,Boston Celtics,240,0
+5bfa2d1cdc6f74efb340a26e,23,"2016 NBA Draft, Undrafted",6-7,United States,0,Troy Williams,SF,Indiana,Sacramento Kings,210,2
+5bfa2d1cdc6f74efb340a26f,22,2017 Rnd 1 Pick 17,6-10,United States,5,D.J. Wilson,F,Michigan,Milwaukee Bucks,231,1
+5bfa2d1cdc6f74efb340a270,22,2015 Rnd 1 Pick 10,6-7,United States,20,Justise Winslow,SF,Duke,Miami Heat,225,3
+5bfa2d1cdc6f74efb340a271,23,"2015 NBA Draft, Undrafted",6-10,United States,35,Christian Wood,PF,UNLV,Milwaukee Bucks,214,2
+5bfa2d1cdc6f74efb340a272,26,2015 Rnd 1 Pick 20,6-5,United States,55,Delon Wright,G,Utah,Toronto Raptors,183,3
+5bfa2d1cdc6f74efb340a273,22,2016 Rnd 1 Pick 16,6-8,France,30,Guerschon Yabusele,PF,SPO Rouen Basket (France),Boston Celtics,260,1
+5bfa2d1cdc6f74efb340a274,30,2007 Rnd 1 Pick 12,6-8,United States,21,Thaddeus Young,F,Georgia Tech,Indiana Pacers,221,11
+5bfa2d1cdc6f74efb340a275,20,2018 Rnd 1 Pick 5,6-2,United States,11,Trae Young,PG,Oklahoma,Atlanta Hawks,180,0
+5bfa2d1cdc6f74efb340a276,26,2013 Rnd 1 Pick 4,7-0,United States,40,Cody Zeller,F,Indiana,Charlotte Hornets,240,5
+5bfa2d1cdc6f74efb340a277,21,2016 Rnd 1 Pick 23,6-11,Croatia,41,Ante Zizic,C,KK Cibona (Croatia),Cleveland Cavaliers,254,1
+5bfa2d1cdc6f74efb340a278,21,2016 Rnd 2 Pick 2,7-1,Bosnia and HerzegovinaCroatia,40,Ivica Zubac,C,KK Mega Bemax (Serbia),Los Angeles Lakers,240,2
